@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsoleIO",
+            "request": "launch",
+            "mainClass": "ConsoleIO",
+            "console": "integratedTerminal"
+        }
+    ]
+}
