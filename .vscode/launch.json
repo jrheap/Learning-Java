@@ -2,6 +2,22 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - arrayListIO",
+            "request": "launch",
+            "mainClass": "arrayListIO",
+            "console": "integratedTerminal"
+
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrayList",
+            "request": "launch",
+            "mainClass": "arrayList",
+            "console": "integratedTerminal"
+
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ConsoleIO",
             "request": "launch",
             "mainClass": "ConsoleIO",
