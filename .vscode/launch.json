@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - conditionals",
+            "request": "launch",
+            "mainClass": "conditionals",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - arrays",
             "request": "launch",
             "mainClass": "arrays",
