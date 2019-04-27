@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HashMaps",
+            "request": "launch",
+            "mainClass": "HashMaps",
+            "console": "integratedTerminal"
+
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - conditionals",
             "request": "launch",
             "mainClass": "conditionals",
